@@ -14,6 +14,7 @@ let con;
 app.use(express.static('public'));
 app.use('/css', express.static(__dirname + 'public/css'))
 app.use('/js', express.static(__dirname + 'public/js'))
+app.use('/assets', express.static(__dirname + 'public/assets'))
 
 // Set View's
 app.set('views', './views');
