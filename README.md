@@ -8,3 +8,4 @@
 - Fixed a few hyperlink issues
 - Added a 404 page
 - Removed unused code
+- Added custom scroll bar
