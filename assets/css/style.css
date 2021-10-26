@@ -1,11 +1,8 @@
-
-
 body {
   font-family: "Open Sans", sans-serif;
-  background-color: #040404;
+  background-color: #0F0F0F;
   color: #fff;
   position: relative;
-  background: transparent;
 }
 
 body::before {
@@ -13,7 +10,6 @@ body::before {
   position: fixed;
   background: #040404 url("../img/background-blue-img.jpg") top right no-repeat;
   background-size: cover;
-  background-color: #0F0F0F;
   left: 0;
   right: 0;
   top: 0;
