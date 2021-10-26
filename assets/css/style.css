@@ -13,6 +13,7 @@ body::before {
   position: fixed;
   background: #040404 url("../img/background-blue-img.jpg") top right no-repeat;
   background-size: cover;
+  background-color: #0F0F0F;
   left: 0;
   right: 0;
   top: 0;
